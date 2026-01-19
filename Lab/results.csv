@@ -1,0 +1,7 @@
+,0,Baseline_DTR_MAE,DTR_llm_encode
+0,cv_mae_val,229.6929125,202.34523831810884
+1,cv_std_val,12.975157551004845,9.088405610571588
+2,cv_mae_train,107.10918281250001,105.12548342500762
+3,cv_std_train,4.6888071647723395,3.7709667501193684
+4,holdout_mae,202.795075,180.55789761294258
+5,best para,"{'regressor__criterion': 'absolute_error', 'regressor__max_depth': None, 'regressor__min_samples_split': 10}","{'regressor__criterion': 'squared_error', 'regressor__max_depth': 10, 'regressor__min_samples_split': 10}"
